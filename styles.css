@@ -1,0 +1,64 @@
+@charset "utf-8";
+@import url("webfonts/DalekPinpointBold/stylesheet.css");
+
+.navbar.navbar-expand-lg.navbar-dark.bg-dark {
+    background-image: url(images/pexels-henry-&-co-2341290.jpg);
+    color: #000000;
+
+
+}
+.navbar-nav.mr-auto .nav-item.active .nav-link {
+    color: #000000;
+    font-family: DalekPinpointBold;
+    font-style: normal;
+    font-variant: small-caps;
+    font-weight: bolder;
+    font-size: large;
+    text-shadow: 3px 3px 15px #7E7A7A;
+}
+body {
+    background-color: #E3CBA9;
+
+}
+.jumbotron.jumbotron-fluid.text-center .lead .btn.btn-primary.btn-lg {
+    color: #000000;
+    border-left-style: double;
+    background-image: url(images/pexels-henry-&-co-2341290.jpg);
+}
+.jumbotron.jumbotron-fluid.text-center {
+
+
+
+
+    background-image: url(images/pexels-jimmy-teoh-951531
+%20(1).jpg)
+    background-image: url(images/pexels-jimmy-teoh-951531.jpg);
+
+
+
+    background-image: url(images/pexels-jimmy-teoh-951531
+%20(1).jpg);
+    background-image: url(images/pexels-jimmy-teoh-951531
+%20(2).jpg)
+    background-image: url(images/greek.jpg)
+    background-image: url(images/greek.jpg)
+    background-image: url(images/greek555copy.jpg);
+    background-image: url(images/greek555.jpg);
+
+
+}
+.jumbotron.jumbotron-fluid.text-center .display-4 {
+    color: #000000;
+    font-family: DalekPinpointBold;
+    font-style: normal;
+}
+.jumbotron.jumbotron-fluid.text-center .lead {
+    color: #000000;
+    font-weight: bolder;
+    font-size: x-large;
+}
+.jumbotron.jumbotron-fluid.text-center p {
+    font-style: normal;
+    font-weight: bolder;
+    font-size: x-large;
+}
